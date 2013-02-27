@@ -5,7 +5,7 @@
 /// how Moodle uses this theme.
 ////////////////////////////////////////////////////////////////////////////////
 
-$THEME->name = 'rackspace';
+$THEME->name = 'rackspace_anomaly';
 
 $THEME->sheets = array('base', 'general', 'browser', 'dock', 'menu');
 /// This variable is an array containing the names of all the
